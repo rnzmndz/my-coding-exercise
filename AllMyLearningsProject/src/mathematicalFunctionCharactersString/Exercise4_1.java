@@ -23,8 +23,8 @@ package mathematicalFunctionCharactersString;
  * 
  * The area (A) of a regular pentagon is calculated using the following formula:
  * 
- * \[ A = \frac{5 \cdot \text{side}^2}{4 \cdot \tan(\frac{\pi}{5})} \]
- * Here, \(\text{side}\) is calculated as \(2 \cdot \text{length} \cdot \sin(\frac{\pi}{5})\).
+ * A = (5 x side^2)/(4 x tan(pi/5))
+ * Here, side is calculated as 2 x r sin(pi/5).
  * 
  * ## Example
  * 
